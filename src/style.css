@@ -14,8 +14,7 @@ h1 {
 .p1 > p {
     text-align: center;
     margin: 2%;
-    background-color: coral;
-    color: white;
+    color: coral;
 }
 
 nav {
