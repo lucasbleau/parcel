@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: coral;
+    border: coral solid 5px;
+    text-align: center;
+    margin: 0;
+}
+
+.p1 > p {
+    text-align: center;
+    margin: 2%;
+    background-color: coral;
+    color: white;
+}
+
+nav {
+    border: steelblue solid 2px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
